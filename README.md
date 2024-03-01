@@ -4,8 +4,6 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí:
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 Actualmente estoy enfocado en ser desarrollador frontend.
   
 - 🌱 Estoy aprendiendo git, javascript, react y vue.
@@ -65,8 +63,7 @@
 <a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com"><img src="https://img.shields.io/badge/jaimee_sm?style=flat&logo=Twitter&logoColor=white
-"></a>
+<a href="https://tiktok.com"><img src="https://img.shields.io/badge/jaimee.sm?style=flat&logo=Tiktok&logoColor=white"></a>
 </p>
 
 <br>
