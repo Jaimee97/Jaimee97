@@ -54,7 +54,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Jaime_Soto-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com"><img src="https://img.shields.io/badge/jaimee__sm-black?style=flat&logo=X&logoColor=white"/></a>
 <a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/jaime.sotom97%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/jaimee__sm-%23C1558B?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/jaimee.sm-%23C1558B?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com"><img src="https://img.shields.io/badge/Jaime_Soto-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://tiktok.com"><img src="https://img.shields.io/badge/jaimee.sm-black?style=flat&logo=Tiktok&logoColor=white"></a>
 </p>
