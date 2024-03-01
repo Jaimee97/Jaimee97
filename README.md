@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<h2> Acerca de mi: </h2>
+### 👨🏻‍💻 &nbsp;Acerca de mí:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -37,6 +37,8 @@
 <br>
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -56,7 +58,18 @@
 </tr>
 </table>
 
+<br>
 
+### 🤝🏻 &nbsp;Contactame
+
+<p align="center">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<br>
 
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 Last Edited on: 04/09/2021
@@ -65,10 +78,13 @@ Last Edited on: 04/09/2021
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 Last Edited on: 11/12/2020
 
-----------------------------------------------------------------------
+-----
 Credit: [1010nishant](https://github.com/1010nishant)
-
 Last Edited on: 29/4/2023
+
+
+
+
 
 
 
