@@ -16,8 +16,6 @@
   
 - ⚡ Soy muy apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 <br>
 
 ### 🛠 &nbsp;Tecnologías que utilizo:
@@ -67,6 +65,8 @@
 <a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com"><img src="https://img.shields.io/badge/jaimee_sm?style=flat&logo=Twitter&logoColor=white
+"></a>
 </p>
 
 <br>
