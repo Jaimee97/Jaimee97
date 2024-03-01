@@ -16,6 +16,7 @@
   
 - ⚡ Soy muy apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Tecnologías que utilizo:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -29,12 +30,22 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+### ⚙️ &nbsp;Analítica GitHub
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
+Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 Last Edited on: 04/09/2021
+
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
 Last Edited on: 11/12/2020
 
 
