@@ -37,14 +37,24 @@
 <br>
 <br>
 
-### ⚙️ &nbsp;Analítica GitHub
-
 <p align="center">
-<a href="https://github.com/Jaimee97">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jaimee97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaimee97&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jaimee97&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaimee97&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jaimee97&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 
 
@@ -55,7 +65,10 @@ Last Edited on: 04/09/2021
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 Last Edited on: 11/12/2020
 
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
 
+Last Edited on: 29/4/2023
 
 
 
