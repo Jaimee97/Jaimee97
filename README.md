@@ -4,17 +4,17 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí:
 
-- 🔭 Actualmente estoy enfocado en ser desarrollador frontend.
+- 🔭 Actualmente estoy enfocado en el área de frontend.
   
-- 🌱 Estoy aprendiendo git, javascript, react y vue.
+- 🧠 Estoy aprendiendo git, javascript, react y vue.
   
-- 👯 Espero pronto poder participar de proyectos.
+- 💻 Espero pronto poder participar de proyectos.
   
-- 💬 Contactame aquí: jaime.sotom97@gmail.com
+- 📧 Contactame aquí: jaime.sotom97@gmail.com
   
-- ⚡ Soy muy apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
+- ⚡ Apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
 
-### 🛠 &nbsp;Tecnologías que utilizo:
+### 🛠 &nbsp;Tecnologías que conozco:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics:
 
 <p align="center">
   <!--- stats (start) -->
@@ -48,12 +48,12 @@
 </tr>
 </table>
 
-### 🤝🏻 &nbsp;Contactame
+### 🤝🏻 &nbsp;Contáctame:
 
 <p align="center">
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Jaime_Soto-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com"><img src="https://img.shields.io/badge/jaimee__sm-black?style=flat&logo=X&logoColor=white"/></a>
-<a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jaime.sotom97@gmail.com"><img src="https://img.shields.io/badge/jaime.sotom97%40gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/jaimee__sm-%23C1558B?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com"><img src="https://img.shields.io/badge/Jaime_Soto-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://tiktok.com"><img src="https://img.shields.io/badge/jaimee.sm-black?style=flat&logo=Tiktok&logoColor=white"></a>
