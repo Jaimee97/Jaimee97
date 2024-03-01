@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1> Hola!, mi nombre es Jaime. Bienvenido a mi GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**Jaimee97/Jaimee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Acerca de mi: <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-Here are some ideas to get you started:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy enfocado en ser desarrollador frontend.
+  
+- 🌱 Estoy aprendiendo git, javascript, react y vue.
+  
+- 👯 Espero pronto poder participar de proyectos.
+  
+- 💬 Contactame aquí: jaime.sotom97@gmail.com
+  
+- ⚡ Soy muy apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
+
+Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
+Last Edited on: 04/09/2021
