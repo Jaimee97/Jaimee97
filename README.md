@@ -1,8 +1,8 @@
-<h1> Hola!, mi nombre es Jaime. Bienvenido a mi GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hola!, soy Jaime. Bienvenido a mi GitHub <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-<h2> Acerca de mi: 
+<h2> Acerca de mi: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -19,3 +19,8 @@
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 
 Last Edited on: 04/09/2021
+
+
+
+
+
