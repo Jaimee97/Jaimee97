@@ -12,7 +12,7 @@
   
 - 📧 Contactame aquí: jaime.sotom97@gmail.com
   
-- ⚡ Apasionado por el fútbol, algunos e-sports, támbien me gustan las series y el anime.
+- ⚡ Apasionado por el fútbol, e-sports y series.
 
 ### 🛠 &nbsp;Tecnologías que conozco:
 
